@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810087984566",
+    "project_id": "fir-crud-e175e",
+    "storage_bucket": "fir-crud-e175e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810087984566:android:32d4c019c412f1dc8a6517",
+        "android_client_info": {
+          "package_name": "com.example.jockes_card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdyRuSj7ElzNTmnY6T9gLmPF1kVEcrmmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
